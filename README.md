@@ -1,4 +1,4 @@
-# Instagram_ComentBot
+# InstaBot_Sorteios
 
 > Status: Em desenvolvimento. ⚠️
 
